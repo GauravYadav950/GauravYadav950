@@ -5,16 +5,18 @@ Email Me 👉 ✉️ **gaurav.yadav.it.01@gmail.com**
 
  A budding Data Analyst who loves exploring data and finding patterns that drive decisions.
 My experience includes:
+Python (Pandas, NumPy)
 
-Data cleaning & preprocessing using Pandas and NumPy
+Data cleaning & EDA
 
-Running analytical queries on SQL Server
+SQL Server for analysis
 
-Creating dashboards in Power BI
+Building dashboards in Power BI
 
-Building end-to-end data projects from ETL to visualization
+Creating end-to-end analytical projects
 
-I’m always learning new tools and working on practical projects.
+I focus on writing clean code, solving real problems, and presenting insights effectively.
+Looking forward to collaborating and improving my skills through real-world projects.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurav_yadav950) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-kumar-7b6bb4364) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaurav.yadav.it.01@gmail.com) 
 
