@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Gaurav Kumar
-**A passionate Data Analyst  || Open to Network  || Data Science 
+A passionate Data Analyst  || Open to Network  || Data Science 
 
 Email Me 👉 ✉️ **gaurav.yadav.it.01@gmail.com** 
 
