@@ -24,10 +24,10 @@
 - Numpy- Numerical Operation 
 
 ### 🔹 Data Visualization & BI Tools
-Power BI – Dashboards, reports, DAX
+- Power BI – Dashboards, reports, DAX
 
 ### 🔹 Databases
-SQL Server – Enterprise data analysis
+- SQL Server – Enterprise data analysis
 
 
 ### 🧰 Tools & Platforms
