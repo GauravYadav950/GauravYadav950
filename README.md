@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst  | Data Scientist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+QA+Engineer;Manual+%2B+Automation+Testing;API+Testing+with+Postman+&+REST+Assured;Performance+Testing+with+JMeter%26" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring Data Analyst;Performance+Testing+with+JMeter%26" alt="Typing SVG" />
 </p>
 
 ---
