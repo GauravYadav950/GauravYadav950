@@ -1,22 +1,41 @@
-# 💫 Hi 👋, I'm Gaurav Kumar
-A passionate Data Analyst  || Open to Network  || Data Science 
+<h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
+<h3 align="center">Aspiring Data Analyst  | Data Scientist</h3>
 
-Email Me 👉 ✉️ **gaurav.yadav.it.01@gmail.com** 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+QA+Engineer;Manual+%2B+Automation+Testing;API+Testing+with+Postman+&+REST+Assured;Performance+Testing+with+JMeter%26" alt="Typing SVG" />
+</p>
 
- A budding Data Analyst who loves exploring data and finding patterns that drive decisions.
-My experience includes:
-Python (Pandas, NumPy)
+---
 
-Data cleaning & EDA
+## 👨‍🎓 About Me
+- A Data Analyst Passionate about transforming Data into meaningful insight
+- With Expertise of Data Cleaning, Creating Insights, Building Dashboards and Data Visualization 
+- Passionate about clean data, meaningful dashboards, and continuous learning.
+- Data Analyst with hands-on experience in Python, SQL, Pandas, NumPy, and Power BI
 
-SQL Server for analysis
+---
 
-Building dashboards in Power BI
+## 🛠️ Skills & Tools
 
-Creating end-to-end analytical projects
+### Programming & Query Languages
+Python – Data cleaning, EDA, automation
+SQL server – Data extraction, joins, aggregation
 
-I focus on writing clean code, solving real problems, and presenting insights effectively.
-Looking forward to collaborating and improving my skills through real-world projects.
+### 🔹 Data Analysis & Manipulation
+Pandas – Data cleaning, transformation 
+Numpy- Numerical Operation 
+
+### 🔹 Data Visualization & BI Tools
+Power BI – Dashboards, reports, DAX
+
+### 🔹 Databases
+SQL Server – Enterprise data analysis
+
+
+### 🧰 Tools & Platforms
+`VS Code`   `GitHub`   `MySQL Server` `Juypter`
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurav_yadav950) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-kumar-7b6bb4364) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaurav.yadav.it.01@gmail.com) 
 
