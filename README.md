@@ -16,12 +16,12 @@
 ## 🛠️ Skills & Tools
 
 ### Programming & Query Languages
-Python – Data cleaning, EDA, automation
-SQL server – Data extraction, joins, aggregation
+- Python – Data cleaning, EDA, automation
+- SQL server – Data extraction, joins, aggregation
 
 ### 🔹 Data Analysis & Manipulation
-Pandas – Data cleaning, transformation 
-Numpy- Numerical Operation 
+- Pandas – Data cleaning, transformation 
+- Numpy- Numerical Operation 
 
 ### 🔹 Data Visualization & BI Tools
 Power BI – Dashboards, reports, DAX
